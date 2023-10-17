@@ -1,19 +1,9 @@
-from ex03.fight_kokaton import HEIGHT, WIDTH, check_bound
-
 
 import pygame as pg
-
-
 import random
-
-
 import sys
 import time
-from typing import Self
 
-import pygame as pg
-
-from ex03.Bomb import Bomb
 
 
 WIDTH = 1600  # ゲームウィンドウの幅
